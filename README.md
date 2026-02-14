@@ -48,9 +48,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
