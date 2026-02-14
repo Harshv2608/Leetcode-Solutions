@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Sorting
+|  |
+| ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 <!---LeetCode Topics End-->
