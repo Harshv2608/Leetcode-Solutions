@@ -25,6 +25,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0001-two-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1108-defanging-an-ip-address](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |
