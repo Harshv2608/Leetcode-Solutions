@@ -99,6 +99,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Heap (Priority Queue)
 |  |
