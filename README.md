@@ -20,6 +20,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,10 +61,12 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
