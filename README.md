@@ -19,6 +19,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -83,6 +84,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -122,6 +124,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Brainteaser
 |  |
