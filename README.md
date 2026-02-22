@@ -42,6 +42,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -116,6 +117,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Brainteaser
@@ -130,4 +132,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
