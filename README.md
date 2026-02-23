@@ -21,6 +21,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -120,6 +121,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Heap (Priority Queue)
 |  |
@@ -157,5 +159,6 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
