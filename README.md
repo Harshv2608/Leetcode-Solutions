@@ -44,6 +44,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
