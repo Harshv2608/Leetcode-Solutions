@@ -15,6 +15,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +74,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -107,6 +109,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0189-rotate-array) |
