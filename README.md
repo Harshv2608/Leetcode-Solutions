@@ -13,6 +13,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0001-two-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -95,6 +96,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -133,6 +135,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0075-sort-colors) |
