@@ -40,6 +40,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Brainteaser
 |  |
 | ------- |
