@@ -141,6 +141,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
@@ -240,4 +241,20 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
