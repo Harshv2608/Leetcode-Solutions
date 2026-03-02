@@ -17,6 +17,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0018-4sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -66,6 +67,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
