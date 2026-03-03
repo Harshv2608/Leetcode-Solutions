@@ -149,6 +149,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0709-to-lower-case](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -206,6 +207,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -226,6 +228,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0021-merge-two-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
 | ------- |
