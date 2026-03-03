@@ -215,6 +215,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
@@ -256,6 +257,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
