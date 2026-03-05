@@ -55,6 +55,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -208,6 +209,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -233,6 +235,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +259,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0643-maximum-average-subarray-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,4 +318,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
