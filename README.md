@@ -101,6 +101,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0066-plus-one](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -148,6 +149,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -167,6 +169,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
@@ -234,6 +237,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
