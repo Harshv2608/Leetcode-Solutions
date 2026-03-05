@@ -173,6 +173,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
@@ -324,5 +325,10 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
