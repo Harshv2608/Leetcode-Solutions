@@ -21,6 +21,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -364,4 +365,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
