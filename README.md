@@ -107,6 +107,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -264,6 +265,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -313,6 +315,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
