@@ -20,6 +20,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -368,5 +369,6 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
