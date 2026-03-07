@@ -409,4 +409,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
