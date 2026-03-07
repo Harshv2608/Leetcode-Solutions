@@ -51,6 +51,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0643-maximum-average-subarray-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1095-find-in-mountain-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -99,6 +100,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0493-reverse-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [1095-find-in-mountain-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -392,4 +394,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0022-generate-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0046-permutations) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
