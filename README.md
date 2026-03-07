@@ -414,6 +414,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0197-rising-temperature](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
