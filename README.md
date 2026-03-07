@@ -235,6 +235,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [3827-count-monobit-integers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 ## Bit Manipulation
 |  |
@@ -245,6 +246,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-count-monobit-integers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
