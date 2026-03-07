@@ -60,6 +60,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -131,6 +132,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1925-count-square-sum-triples](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2396-strictly-palindromic-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -157,6 +159,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
@@ -255,6 +258,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -291,6 +295,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Trie
 |  |
 | ------- |
