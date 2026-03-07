@@ -165,6 +165,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -295,6 +296,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -378,6 +380,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
