@@ -65,6 +65,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3833-count-dominant-indices](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
 |  |
@@ -232,6 +233,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [3833-count-dominant-indices](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
