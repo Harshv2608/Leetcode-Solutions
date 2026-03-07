@@ -54,6 +54,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1095-find-in-mountain-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
