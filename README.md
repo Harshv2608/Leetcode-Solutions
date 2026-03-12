@@ -107,6 +107,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +248,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Enumeration
 |  |
 | ------- |
@@ -405,6 +407,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -431,4 +434,12 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
