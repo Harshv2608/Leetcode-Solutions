@@ -88,6 +88,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0202-happy-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -166,6 +167,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0169-majority-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -189,6 +191,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0125-valid-palindrome](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
