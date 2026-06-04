@@ -39,6 +39,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0152-maximum-product-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -110,6 +111,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -246,6 +248,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0088-merge-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
