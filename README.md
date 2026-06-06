@@ -36,6 +36,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -359,6 +360,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0392-is-subsequence) |
