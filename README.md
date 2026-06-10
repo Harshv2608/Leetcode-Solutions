@@ -244,6 +244,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -451,6 +452,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Union-Find
