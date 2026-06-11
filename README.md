@@ -59,6 +59,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0643-maximum-average-subarray-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1095-find-in-mountain-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -188,6 +189,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0229-majority-element-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -251,6 +253,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0232-implement-queue-using-stacks](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Two Pointers
@@ -467,6 +470,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Backtracking
 |  |
 | ------- |
