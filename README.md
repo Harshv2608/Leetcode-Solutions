@@ -114,6 +114,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1980-find-unique-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2396-strictly-palindromic-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3945-digit-frequency-score](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
