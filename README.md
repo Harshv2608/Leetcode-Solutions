@@ -503,6 +503,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1148-article-views-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 ## Graph Theory
 |  |
