@@ -249,6 +249,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Stack
 |  |
@@ -296,6 +297,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1768-merge-strings-alternately](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
