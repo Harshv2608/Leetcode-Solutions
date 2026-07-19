@@ -1,14 +1,12 @@
 class Solution {
-    public int lastoccur(int[] arr, int k){
+    public int lower(int[] arr,int n,int k){
         int low=0;
-        int high=arr.length-1;
-        int ans=-1;
+        int high=n-1;
+        int ans=n;
         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(arr[mid]==k){
+            int mid=(low+high)/2;
+            if(arr[mid]>=k){
                 ans=mid;
-                low=mid+1;
-            }else if(arr[mid]>k){
                 high=mid-1;
             }else{
                 low=mid+1;
@@ -16,16 +14,14 @@ class Solution {
         }
         return ans;
     }
-    public int firstoccur(int[] arr, int k){
+    public int upper(int[] arr,int n,int k){
         int low=0;
-        int high=arr.length-1;
-        int ans=-1;
+        int high=n-1;
+        int ans=n;
         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(arr[mid]==k){
+            int mid=(low+high)/2;
+            if(arr[mid]>k){
                 ans=mid;
-                high=mid-1;
-            }else if(arr[mid]>k){
                 high=mid-1;
             }else{
                 low=mid+1;
@@ -34,9 +30,9 @@ class Solution {
         return ans;
     }
     public int[] searchRange(int[] nums, int target) {
-        int first=firstoccur(nums,target);
-        if(first==-1)return new int[] {-1,-1};
-        int last=lastoccur(nums,target);
-        return new int[] {first,last};
+        int n=nums.length;
+        int lb=lower(nums,n,target);
+        if(lb==n || nums[lb]!=target)return new int[]{-1,-1};
+        return new int[]{lb,upper(nums,n,target)-1};
     }
 }
