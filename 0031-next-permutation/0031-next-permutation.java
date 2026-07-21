@@ -1,35 +1,35 @@
 class Solution {
-    public void reverse(int[] nums,int left,int right){
-        while(left<right){
-            int temp=nums[left];
-            nums[left]=nums[right];
-            nums[right]=temp;
-            left++;
-            right--;
+    public void reverse(int[] nums,int low,int high){
+        while(low<high){
+            int temp=nums[low];
+            nums[low]=nums[high];
+            nums[high]=temp;
+            low++;
+            high--;
         }
     }
     public void nextPermutation(int[] nums) {
-        int n=nums.length;
-        int index=-1;
+        int ind=-1;
+        int n=nums.length;;
         for(int i=n-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
-                index=i;
+                ind=i;
                 break;
             }
         }
-        if(index==-1){
+        if(ind==-1){
             reverse(nums,0,n-1);
-        }else{
-
-        for(int i=n-1;i>index;i--){
-            if(nums[i]>nums[index]){
+            return;
+        }    
+        for(int i=n-1;i>ind;i--){
+            if(nums[i]>nums[ind]){
                 int temp=nums[i];
-                nums[i]=nums[index];
-                nums[index]=temp;
+                nums[i]=nums[ind];
+                nums[ind]=temp;
                 break;
             }
         }
-        reverse(nums,index+1,n-1);
-        }
+        reverse(nums,ind+1,n-1);
+
     }
 }
