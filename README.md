@@ -53,6 +53,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0283-move-zeroes](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -201,6 +202,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0229-majority-element-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -298,6 +300,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0344-reverse-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -310,6 +313,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
