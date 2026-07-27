@@ -58,6 +58,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0485-max-consecutive-ones](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -199,6 +200,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0073-set-matrix-zeroes](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -441,6 +443,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0198-house-robber](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -506,6 +509,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0199-binary-tree-right-side-view](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
