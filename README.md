@@ -486,6 +486,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -504,6 +505,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -569,6 +571,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
@@ -591,4 +594,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
