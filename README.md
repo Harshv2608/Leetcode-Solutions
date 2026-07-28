@@ -48,6 +48,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0189-rotate-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -445,6 +446,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
