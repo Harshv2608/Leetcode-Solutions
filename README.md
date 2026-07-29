@@ -174,6 +174,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0009-palindrome-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -441,6 +442,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0032-longest-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -615,4 +617,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
