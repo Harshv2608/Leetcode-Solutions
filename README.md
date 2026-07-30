@@ -193,6 +193,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2396-strictly-palindromic-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3945-digit-frequency-score](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
@@ -279,6 +280,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1980-find-unique-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -346,6 +348,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Enumeration
