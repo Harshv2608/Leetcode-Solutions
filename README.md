@@ -117,6 +117,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0049-group-anagrams](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -259,6 +260,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0049-group-anagrams](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -527,6 +529,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -570,6 +573,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0022-generate-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0126-word-ladder-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [1980-find-unique-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Interactive
 |  |
