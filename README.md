@@ -515,6 +515,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0543-diameter-of-binary-tree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -538,6 +539,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Queue
@@ -559,6 +561,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0130-surrounded-regions](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
@@ -607,6 +610,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0207-course-schedule](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -640,4 +644,12 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
