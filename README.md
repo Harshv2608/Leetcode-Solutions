@@ -39,6 +39,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -464,6 +465,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0064-minimum-path-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0198-house-robber) |
