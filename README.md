@@ -70,6 +70,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -480,6 +481,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0416-partition-equal-subset-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
