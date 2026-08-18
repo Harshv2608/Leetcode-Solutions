@@ -13,6 +13,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0001-two-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -271,6 +272,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
@@ -451,6 +453,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
