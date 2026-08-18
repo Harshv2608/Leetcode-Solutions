@@ -295,6 +295,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0678-valid-parenthesis-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -700,4 +701,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
