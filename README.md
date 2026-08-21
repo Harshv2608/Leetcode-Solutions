@@ -638,6 +638,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1661-average-time-of-process-per-machine](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Graph Theory
 |  |
 | ------- |
