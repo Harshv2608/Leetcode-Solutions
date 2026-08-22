@@ -214,6 +214,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
