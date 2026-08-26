@@ -113,6 +113,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3833-count-dominant-indices](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -147,6 +148,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
