@@ -15,6 +15,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -242,6 +243,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -343,6 +345,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0031-next-permutation) |
