@@ -114,6 +114,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3833-count-dominant-indices](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
@@ -151,6 +152,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -241,6 +243,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -410,6 +413,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2401-longest-nice-subarray](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3827-count-monobit-integers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Heap (Priority Queue)
 |  |
@@ -588,6 +592,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
