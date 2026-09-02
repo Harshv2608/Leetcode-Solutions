@@ -120,6 +120,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3833-count-dominant-indices](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3921-score-validator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
@@ -222,6 +223,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
