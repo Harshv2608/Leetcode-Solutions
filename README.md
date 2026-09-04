@@ -122,6 +122,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
@@ -458,6 +459,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3903-smallest-stable-index-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Recursion
 |  |
 | ------- |
