@@ -294,6 +294,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0022-generate-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
