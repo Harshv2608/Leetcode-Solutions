@@ -123,6 +123,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
@@ -460,6 +461,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
 |  |
 | ------- |
