@@ -342,6 +342,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0020-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -561,6 +562,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -571,6 +573,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
@@ -586,6 +589,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
