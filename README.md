@@ -314,6 +314,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0680-valid-palindrome-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -525,6 +526,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0678-valid-parenthesis-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
