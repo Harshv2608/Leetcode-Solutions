@@ -580,6 +580,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0199-binary-tree-right-side-view](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -601,6 +602,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -618,6 +620,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0199-binary-tree-right-side-view](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
