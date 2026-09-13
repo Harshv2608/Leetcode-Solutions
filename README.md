@@ -73,6 +73,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -251,6 +252,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0200-number-of-islands](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
