@@ -219,6 +219,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0224-basic-calculator](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -799,4 +800,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
