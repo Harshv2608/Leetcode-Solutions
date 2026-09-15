@@ -342,6 +342,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -404,6 +405,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2367-number-of-arithmetic-triplets](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
@@ -417,6 +419,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -550,6 +553,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0940-distinct-subsequences-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
