@@ -223,6 +223,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
@@ -477,6 +478,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0410-split-array-largest-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -552,6 +554,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0931-minimum-falling-path-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -772,6 +775,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Graph Coloring
 |  |
 | ------- |
