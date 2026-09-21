@@ -69,6 +69,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0542-01-matrix](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -156,6 +157,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0424-longest-repeating-character-replacement](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -289,6 +291,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [0242-valid-anagram](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -452,6 +455,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
