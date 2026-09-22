@@ -124,6 +124,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -248,6 +249,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -592,6 +594,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
