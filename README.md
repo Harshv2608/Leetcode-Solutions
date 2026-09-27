@@ -363,6 +363,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -406,6 +407,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [1021-remove-outermost-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Two Pointers
 |  |
@@ -847,6 +849,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String Matching
 |  |
 | ------- |
