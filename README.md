@@ -891,4 +891,8 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
