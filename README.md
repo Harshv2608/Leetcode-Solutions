@@ -137,6 +137,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3833-count-dominant-indices](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -327,6 +328,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -486,6 +488,7 @@ My focus is on correctness, efficiency, and maintaining clear logic rather than 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Harshv2608/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
